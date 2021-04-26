@@ -120,7 +120,7 @@ where
 }
 
 const OBS_STUDIO_VERSION: &str = "^26.1.0";
-const OBS_WEBSOCKET_VERSION: &str = "~4.9.0";
+const OBS_WEBSOCKET_VERSION: &str = "~4.8.0";
 
 impl<H> ConnectConfig<H>
 where
