@@ -121,8 +121,8 @@ where
 
 const OBS_STUDIO_VERSION: Comparator = Comparator {
     op: Op::Caret,
-    major: 26,
-    minor: Some(1),
+    major: 27,
+    minor: Some(0),
     patch: None,
     pre: Prerelease::EMPTY,
 };
