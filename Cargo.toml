@@ -30,7 +30,7 @@ serde_with = "1.9.1"
 sha2 = "0.9.5"
 thiserror = "1.0.25"
 tokio = { version = "1.6.0", features = ["net", "rt", "sync"] }
-tokio-tungstenite = "0.14.0"
+tokio-tungstenite = "0.15.0"
 
 [dev-dependencies]
 anyhow = "1.0.40"
