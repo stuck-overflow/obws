@@ -16,7 +16,7 @@ features = ["events", "tls"]
 
 [dependencies]
 async-stream = { version = "0.3.2", optional = true }
-base64 = "0.13.0"
+base64 = "0.20.0"
 bitflags = "1.2.1"
 chrono = { version = "0.4.19", default-features = false, features = ["std"] }
 either = { version = "1.6.1", features = ["serde"] }
